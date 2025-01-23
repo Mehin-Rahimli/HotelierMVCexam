@@ -1,0 +1,55 @@
+﻿@using HotelierMVC.Areas.admin.ViewModels
+@model UpdateEmployeeVM
+
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Update Employee</h4>
+
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="Name" for="exampleInputUsername1">Name</label>
+                        <input asp-for="Name" type="text" class="form-control" placeholder="Name">
+                        <span asp-validation-for="Name"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Surname" for="exampleInputUsername1">Surname</label>
+                        <input asp-for="Surname" type="text" class="form-control" placeholder="Surname">
+                        <span asp-validation-for="Surname"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FbLink" for="exampleInputUsername1">FbLink</label>
+                        <input asp-for="FbLink" type="text" class="form-control" placeholder="FbLink">
+                        <span asp-validation-for="FbLink"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="InstagramLink" for="exampleInputUsername1">InstagramLink</label>
+                        <input asp-for="InstagramLink" type="text" class="form-control" placeholder="InstagramLink">
+                        <span asp-validation-for="InstagramLink"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="TwitterLink" for="exampleInputUsername1">TwitterLink</label>
+                        <input asp-for="TwitterLink" type="text" class="form-control" placeholder="TwitterLink">
+                        <span asp-validation-for="TwitterLink"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="MajorId" for="exampleInputUsername1">MajorId</label>
+                        <select asp-for="MajorId" type="text" class="form-control" placeholder="MajorId" asp-items="new SelectList(Model.Majors,nameof(Major.Id),nameof(Major.Name))">
+                            <option selected disabled value="">Choose Major</option>
+                        </select>
+                        <span asp-validation-for="MajorId"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Image" for="exampleInputUsername1">Image</label>
+                        <img src="~/assets/img/@Model.Image" />
+                        <input asp-for="Image" type="file" class="form-control" placeholder="Image" accept="image/*">
+                        <span asp-validation-for="Image"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

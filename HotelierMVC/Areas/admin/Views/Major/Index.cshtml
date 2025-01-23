@@ -1,0 +1,59 @@
+﻿@using HotelierMVC.Areas.admin.ViewModels
+@model List<GetMajorVM>
+
+@{
+    int count = 0;
+}
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Major table</h4>
+            <a asp-action="create" class="btn btn-info">Create major</a>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                No
+                            </th>
+                            <th>
+                               Name
+                            </th>
+                            <th>
+                                Employee count
+                            </th>
+                            <th>
+                                Settings
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                 @foreach (GetMajorVM majorVM in Model)
+                        {
+                            count++;
+                            <tr>                              
+                                <td>
+                                  @count
+                                </td>
+                                <td>
+                                   @majorVM.Name
+                                </td>
+                                <td>
+                                  @majorVM.EmployeeCount
+                                </td>
+                                <td>
+                                    <a asp-action="update" class="btn btn-warning" asp-route-Id="@majorVM.Id"><i class="mdi mdi-grease-pencil"></i></a>
+                                    <a asp-action="delete" class="btn btn-danger" asp-route-Id="@majorVM.Id"><i class="mdi mdi-delete"></i></a>
+
+                                </td>
+                            </tr>
+
+
+                        }  
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

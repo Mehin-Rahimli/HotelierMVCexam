@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\areas\\admin\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\areas\\admin\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\areas\\admin\\viewmodels\\employee\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\areas\\admin\\viewmodels\\employee\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\areas\\admin\\viewmodels\\major\\updatemajorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\areas\\admin\\viewmodels\\major\\updatemajorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|c:\\users\\ll novbe\\desktop\\hoteliermvc\\hoteliermvc\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF7EB1-5C48-4C05-BDA1-8F58E9188F5D}|HotelierMVC\\HotelierMVC.csproj|solutionrelative:hoteliermvc\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MajorController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\Controllers\\MajorController.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Areas\\admin\\Controllers\\MajorController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\Controllers\\MajorController.cs",
+              "RelativeToolTip": "HotelierMVC\\Areas\\admin\\Controllers\\MajorController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwE0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:13:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HotelierMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowEkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:06:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "HotelierMVC\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:03:56.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "HotelierMVC\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:03:45.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HotelierMVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HotelierMVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:58:04.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HotelierMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HotelierMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:57:54.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HotelierMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HotelierMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:57:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "HotelierMVC\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA4wC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:53:23.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "HotelierMVC\\Areas\\admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "HotelierMVC\\Areas\\admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvywAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:46:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:41:18.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateMajorVM.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\ViewModels\\Major\\UpdateMajorVM.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Areas\\admin\\ViewModels\\Major\\UpdateMajorVM.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\ViewModels\\Major\\UpdateMajorVM.cs",
+              "RelativeToolTip": "HotelierMVC\\Areas\\admin\\ViewModels\\Major\\UpdateMajorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:46:34.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "RelativeToolTip": "HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:45:08.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "HotelierMVC\\Areas\\admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:41:12.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Areas\\admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Areas\\admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HotelierMVC\\Areas\\admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:39:59.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HotelierMVC\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\HotelierMVC\\HotelierMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "HotelierMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:39:29.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
